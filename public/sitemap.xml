@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/hey/</loc>
+    <loc>https://blog.diogocezar.dev/posts/meu-primeiro-post/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://blog.diogocezar.dev/posts/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://blog.diogocezar.dev/tags/tag1/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://blog.diogocezar.dev/tags/tag2/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://blog.diogocezar.dev/tags/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.diogocezar.dev/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.diogocezar.dev/categories/</loc>
   </url>
 </urlset>

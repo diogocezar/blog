@@ -2,20 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal</title>
-    <link>//localhost:1313/</link>
+    <link>https://blog.diogocezar.dev/</link>
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.diogocezar.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>//localhost:1313/posts/hey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Olá</title>
+      <link>https://blog.diogocezar.dev/posts/meu-primeiro-post/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/hey/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
-&lt;h2 id=&#34;world&#34;&gt;World&lt;/h2&gt;</description>
-      <content>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
-&lt;h2 id=&#34;world&#34;&gt;World&lt;/h2&gt;
+      <guid>https://blog.diogocezar.dev/posts/meu-primeiro-post/</guid>
+      <description>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
+&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2021.55.21.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
+&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2021.55.21.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
