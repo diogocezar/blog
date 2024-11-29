@@ -14,11 +14,22 @@
       
       <guid>https://blog.diogocezar.dev/posts/meu-primeiro-post/</guid>
       <description>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
-&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2021.55.21.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
 &lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2021.55.21.png&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Olá</title>
+      <link>https://blog.diogocezar.dev/posts/ol%C3%A1-mundo/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.diogocezar.dev/posts/ol%C3%A1-mundo/</guid>
+      <description>&lt;h2 id=&#34;olá-mundo&#34;&gt;Olá mundo&lt;/h2&gt;
+&lt;p&gt;Testando um post!![[Screenshot 2024-11-28 at 22.04.03.png]]&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;olá-mundo&#34;&gt;Olá mundo&lt;/h2&gt;
+&lt;p&gt;Testando um post!![[Screenshot 2024-11-28 at 22.04.03.png]]&lt;/p&gt;
 </content>
     </item>
     
