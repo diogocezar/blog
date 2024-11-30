@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.diogocezar.dev/posts/hello-world/</loc>
-  </url><url>
     <loc>https://blog.diogocezar.dev/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.diogocezar.dev/categories/</loc>
+    <loc>https://blog.diogocezar.dev/posts/escrevendo-novamente/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.diogocezar.dev/tags/pensamentos/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.diogocezar.dev/posts/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.diogocezar.dev/tags/</loc>
+    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.diogocezar.dev/categories/</loc>
   </url>
 </urlset>
