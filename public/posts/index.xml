@@ -5,63 +5,17 @@
     <link>https://blog.diogocezar.dev/posts/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.diogocezar.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Olá</title>
-      <link>https://blog.diogocezar.dev/posts/meu-primeiro-post/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.diogocezar.dev/posts/meu-primeiro-post/</guid>
-      <description>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
-&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;olá&#34;&gt;Olá&lt;/h2&gt;
-&lt;p&gt;Testando o meu primeiro post.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Olá</title>
-      <link>https://blog.diogocezar.dev/posts/ol%C3%A1-mundo/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.diogocezar.dev/posts/ol%C3%A1-mundo/</guid>
-      <description>&lt;h2 id=&#34;olá-mundo&#34;&gt;Olá mundo&lt;/h2&gt;
-&lt;p&gt;Testando um post!!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2022.04.03.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;olá-mundo&#34;&gt;Olá mundo&lt;/h2&gt;
-&lt;p&gt;Testando um post!!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.diogocezar.dev/images/Screenshot%202024-11-28%20at%2022.04.03.png&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
+    <language>en</language><atom:link href="https://blog.diogocezar.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://blog.diogocezar.dev/posts/nova-nota/</link>
+      <link>https://blog.diogocezar.dev/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.diogocezar.dev/posts/nova-nota/</guid>
-      <description>&lt;h2 id=&#34;teste&#34;&gt;Teste&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;![[Screenshot 2024-11-29 at 13.52.25.png]]&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;teste&#34;&gt;Teste&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;![[Screenshot 2024-11-29 at 13.52.25.png]]&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://blog.diogocezar.dev/posts/teste/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.diogocezar.dev/posts/teste/</guid>
-      <description>&lt;h2 id=&#34;testeeee-oi-oi-oi-oi&#34;&gt;Testeeee oi oi oi oi&lt;/h2&gt;
-&lt;p&gt;bora
-!&lt;img alt=&#34;Image Description&#34; src=&#34;./images/Screenshot%202024-11-29%20at%2013.44.21.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;testeeee-oi-oi-oi-oi&#34;&gt;Testeeee oi oi oi oi&lt;/h2&gt;
-&lt;p&gt;bora
-!&lt;img alt=&#34;Image Description&#34; src=&#34;./images/Screenshot%202024-11-29%20at%2013.44.21.png&#34;&gt;&lt;/p&gt;
+      <guid>https://blog.diogocezar.dev/posts/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hey-there&#34;&gt;Hey There&lt;/h1&gt;
+&lt;p&gt;Just a simple test.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hey-there&#34;&gt;Hey There&lt;/h1&gt;
+&lt;p&gt;Just a simple test.&lt;/p&gt;
 </content>
     </item>
     
