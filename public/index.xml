@@ -13,9 +13,11 @@
       
       <guid>https://blog.diogocezar.dev/posts/hello-world/</guid>
       <description>&lt;h1 id=&#34;hey-there&#34;&gt;Hey There&lt;/h1&gt;
-&lt;p&gt;Just a simple test.&lt;/p&gt;</description>
+&lt;p&gt;Just a simple test.&lt;/p&gt;
+&lt;p&gt;#147897&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;hey-there&#34;&gt;Hey There&lt;/h1&gt;
 &lt;p&gt;Just a simple test.&lt;/p&gt;
+&lt;p&gt;#147897&lt;/p&gt;
 </content>
     </item>
     
