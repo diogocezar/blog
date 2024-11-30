@@ -20,7 +20,7 @@ showLanguageSelector = false
 fullWidthTheme = false
 
 # center theme with default width
-centerTheme = false
+centerTheme = true
 
 # if your resource directory contains an image called `cover.(jpg|png|webp)`,
 # then the file will be used as a cover automatically.
@@ -50,13 +50,13 @@ showLastUpdated = false
 # set Twitter handles for Twitter cards
 # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
 # do not include @
-creator = ""
-site = ""
+creator = "diogocezar"
+site = "https://diogocezar.dev"
 
 [languages]
 [languages.en]
 languageName = "English"
-title = "Terminal"
+title = "Blog do Diogão"
 
 [languages.en.params]
 subtitle = "A simple, retro theme for Hugo"
@@ -74,15 +74,15 @@ minuteReadingTime = "min read"
 words = "words"
 
 [languages.en.params.logo]
-logoText = "Terminal"
+logoText = "Blog do Diogão"
 logoHomeLink = "/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
-identifier = "about"
-name = "About"
-url = "/about"
-[[languages.en.menu.main]]
-identifier = "showcase"
-name = "Showcase"
-url = "/showcase"
+# identifier = "about"
+# name = "About"
+# url = "/about"
+# [[languages.en.menu.main]]
+# identifier = "showcase"
+# name = "Showcase"
+# url = "/showcase"
