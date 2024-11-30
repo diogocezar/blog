@@ -5,7 +5,6 @@ draft: "false"
 tags:
   - pensamentos
 ---
-# Escrevendo novamente
 E ae pessoal, tudo certinho?
 
 Como aprendi com o grande [Willian Justen](https://willianjusten.com.br/) [aqui](https://open.spotify.com/track/05A9GC5OxmgvvRji2SCVzh?si=0906661ac2074f42) vai a música que escuto neste momento.
