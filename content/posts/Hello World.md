@@ -5,4 +5,4 @@ Just a simple test.
 const a = 10
 ```
 
-![[Screenshot 2024-11-30 at 16.41.53.png]]
+!![Image Description](./images/Screenshot%202024-11-30%20at%2016.41.53.png)
