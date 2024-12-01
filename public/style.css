@@ -3,22 +3,28 @@
     --foreground: #ffffff;
     --accent: #ea00a4;
     --font-size: 3rem;
-    --line-height: 2rem;
+    --line-height: 1.5rem;
     --radius: 0;
 }
 
-* {
-    font-family: "obviously", sans-serif;
-}
-
-.bg-dots {
-    background-image: url("https://blog.diogocezar.dev/images/bg.svg");
-    background-repeat: no-repeat;
-    background-position: top center;
+h2 {
+    letter-spacing: 0;
 }
 
 .post-title {
     line-height: 4rem;
+    border: none;
+}
+
+.post-title:after {
+    border: none;
+}
+
+body {
+    font-family: "obviously", sans-serif;
+    background-image: url("https://blog.diogocezar.dev/images/bg.svg");
+    background-repeat: no-repeat;
+    background-position: top center;
 }
 
 header {
@@ -42,4 +48,8 @@ footer img {
 
 footer img {
     width: 150px;
+}
+
+.post-title {
+    font-weight: bold;
 }
