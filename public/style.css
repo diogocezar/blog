@@ -7,6 +7,16 @@
     --radius: 0;
 }
 
+* {
+    font-family: "obviously", sans-serif;
+}
+
+.bg-dots {
+    background-image: url("https://blog.diogocezar.dev/images/bg.svg");
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
 .post-title {
     line-height: 4rem;
 }
