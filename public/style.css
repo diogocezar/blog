@@ -6,3 +6,30 @@
     --line-height: 2rem;
     --radius: 0;
 }
+
+.post-title {
+    line-height: 4rem;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header img,
+footer img {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer {
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+}
+
+footer img {
+    width: 150px;
+}
